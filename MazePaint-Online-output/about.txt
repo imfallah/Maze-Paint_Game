@@ -1,0 +1,21 @@
+🎮 About MazePaint
+
+Welcome to MazePaint!
+
+MazePaint is a challenging puzzle game in the maze genre, where you must find the correct path and make your way through the labyrinth.
+
+✨ Features:
+• A variety of levels with different difficulty settings
+• Star and scoring system
+• Record tracking and best-time records
+• Player leaderboard
+• Compete with other players
+• Levels ranging from easy to extremely difficult
+• Simple, smooth design for fast performance
+
+📌 Before Installation:
+To ensure the game runs properly, make sure you have enough free space on your system and that the installation file has been downloaded completely.
+
+🚀 After installation, launch the game, choose your player name, and begin your MazePaint adventure!
+
+Good luck, and beat your own record! 🏆

@@ -1,4 +1,4 @@
-# 🎨 MazePaint Online Game😎
+# 🎨 MazePaint Online Game With PYQT5😎
 
 
 > **Explore the maze. Solve the puzzle. Become the champion.**

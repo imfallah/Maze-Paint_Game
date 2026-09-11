@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imfallah/Maze-Paint_Game/main/public/banner.png" width="900" alt="MazePaint Banner">
+</p>
+
 # 🎨 MazePaint
 
 <p align="center">

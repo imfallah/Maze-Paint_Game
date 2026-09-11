@@ -12,33 +12,32 @@ The project combines a polished desktop interface with an interactive maze game,
 # 📚 Contents
 
 <!--ts-->
-[📥 Downloads](#downloads)
-- [✨ Features](#-features)
-- [🛠️ Built With](#️-built-with)
-- [🖼️ Screenshots & GIF](#️-screenshots--gif)
-- [🚀 Installation](#-installation)
-- [🎮 Controls](#-controls)
+- [📥 Downloads](#downloads)
+- [✨ Features](#features)
+- [🛠️ Built With](#️built)
+- [🎮 Controls](#controls)
 - [🌐 Online Features](#online)
-- [📁 Project Structure](#-project-structure)
-- [🗺️ Roadmap](#️-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+- [📁 Project Structure](#structure)
+- [🗺️ Roadmap](#️roadmap)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
 <!--te-->
 ## 🎮 Game Preview
 
-
 <p align="center">
-  <img src="public/main.png" alt="MazePaint Main Menu" width="330">
-  <img src="public/game.png" alt="MazePaint Gameplay" width="330">
-  <img src="public/level-s2.png" alt="MazePaint Leaderboard" width="330">
-  <img src="public/Profile.png" alit="MazePaint Profile" width="330">
-  <img src="public/leaderboard.png" alit="MazePaint Profile" width="330">
-  <img src="public/chat_box.png" alit="MazePaint Profile" width="330">
-
-
+  <img src="./public/main.png" alt="MazePaint Main Menu" width="330">
+  <img src="./public/game.png" alt="MazePaint Gameplay" width="330">
+  <img src="./public/level-s2.png" alt="MazePaint Level Selection" width="330">
+  <img src="./public/Profile.png" alt="MazePaint Profile" width="330">
+  <img src="./public/leaderboard.png" alt="MazePaint Leaderboard" width="330">
+  <img src="./public/chat_box.png" alt="MazePaint Chat" width="330">
 </p>
 <p align="center">
-  <i>More gameplay screenshots and videos coming soon.</i>
+  <img src="./public/maingif.gif" alt="MazePaint Gameplay" width="330">
+</p>
+
+<p align="center">
+  <i>MazePaint gameplay preview.</i>
 </p>
 
 ---
@@ -50,7 +49,7 @@ The project combines a polished desktop interface with an interactive maze game,
 [⬇️ Linux](https://github.com/imfallah/Maze-Paint_Game/releases)
 
 
-
+<a id="features"></a>
 
 ## ✨ Features
 
@@ -96,6 +95,7 @@ The project combines a polished desktop interface with an interactive maze game,
 * Dedicated splash screen
 
 ---
+<a id="built"></a>
 
 ## 🛠️ Built With
 
@@ -109,6 +109,7 @@ The project combines a polished desktop interface with an interactive maze game,
 | 📦 PyInstaller | Application packaging     |
 
 ---
+<a id="projarchive"></a>
 
 ## 🏗️ Project Architecture
 
@@ -143,7 +144,7 @@ MazePaint combines a **PyQt5 desktop application** with a **Pygame game engine**
 ```
 
 ---
-
+<a id="structure"></a>
 
 ## 📁 Project Structure
 
@@ -179,6 +180,7 @@ MazePaint/
 ```
 
 ---
+<a id="levelsys"></a>
 
 ## 🗺️ Level System
 
@@ -203,6 +205,7 @@ MazePaint uses JSON-based level definitions, making it easy to create and modify
 Each level can contain its own maze layout, gameplay configuration and completion requirements.
 
 ---
+<a id="star"></a>
 
 ## ⭐ Star System
 
@@ -217,6 +220,7 @@ Players can earn stars by completing levels efficiently.
 Stars are stored locally and can be used to track player performance across the game.
 
 ---
+<a id="save"></a>
 
 ## 💾 Save System
 
@@ -273,6 +277,7 @@ Online functionality includes:
 > Online services require the appropriate Supabase configuration.
 
 ---
+<a id="controls"></a>
 
 ## 🎮 Controls
 
@@ -287,6 +292,7 @@ Online functionality includes:
 > Controls may be expanded as new gameplay mechanics are added.
 
 ---
+<a id="run"></a>
 
 ## 🚀 Run From Source
 
@@ -326,6 +332,7 @@ python main.py
 ```
 
 ---
+<a id="windows"></a>
 
 ## 🪟 Windows Build
 
@@ -344,6 +351,7 @@ dist/
 The packaged version includes the required game assets and level files.
 
 ---
+<a id="linux"></a>
 
 ## 🐧 Linux
 
@@ -364,6 +372,7 @@ pyinstaller MazePaint.spec
 Linux distribution packages can be provided through the project's GitHub Releases.
 
 ---
+<a id="release"></a>
 
 ## 📦 Releases
 
@@ -384,6 +393,7 @@ MazePaint
 Additional packages such as `.deb` or AppImage may be provided in future releases.
 
 ---
+<a id="configuration"></a>
 
 ## ⚙️ Configuration
 
@@ -399,6 +409,7 @@ SUPABASE_KEY=your_supabase_key
 > Never commit private API keys or secrets to the repository.
 
 ---
+<a id="development"></a>
 
 ## 🔧 Development
 
@@ -424,6 +435,7 @@ python main.py
 ```
 
 ---
+<a id="rodmap"></a>
 
 ## 🗺️ Roadmap
 
@@ -456,6 +468,7 @@ python main.py
 * [ ] Steam / game-store distribution
 
 ---
+<a id="issu"></a>
 
 ## 🐛 Known Issues
 
@@ -466,6 +479,7 @@ Some online features and environmental effects may still be under development an
 If you find a bug, please open an issue on GitHub.
 
 ---
+<a id="contibuting"></a>
 
 ## 🤝 Contributing
 
@@ -496,6 +510,7 @@ git push origin feature/my-feature
 6. Open a Pull Request
 
 ---
+<a id="license"></a>
 
 ## 📄 License
 
@@ -504,8 +519,9 @@ This project is currently under active development.
 A formal open-source license will be added before the first stable public release.
 
 ---
+<a id="creator"></a>
 
-## 👨‍💻 Author
+## Creator 👾
 
 ### Mohammad Fallahnejad
 

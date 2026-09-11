@@ -90,8 +90,8 @@ Pre-built versions are available through **GitHub Releases**.
 | --------------- | ---------------------- | -------------------- |
 | 🪟 Windows      | Standalone application | ✅ Available          |
 | 🐧 Linux        | Standalone application | ✅ Available          |
-| 📦 Linux `.deb` | Debian package         | 🔄 Release dependent |
-| 📦 AppImage     | Portable Linux package | 🔄 Planned           |
+| 📦 Linux `.deb` | [Debian package](https://github.com/imfallah/Maze-Paint_Game-PYQT5/releases/download/v1.0.0/MazePaint_1.0.0_amd64.deb)     | ✅ Available   |
+| 📦 AppImage     | [AppImage package](https://github.com/imfallah/Maze-Paint_Game-PYQT5/releases/download/v1.0.0/MazePaint-x86_64.AppImage) | ✅Available           |
 
 ### ⬇️ Download
 

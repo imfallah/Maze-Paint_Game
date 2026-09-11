@@ -9,6 +9,21 @@ The project combines a polished desktop interface with an interactive maze game,
 
 ---
 
+# 📚 Contents
+
+<!--ts-->
+[📥 Downloads](#downloads)
+- [✨ Features](#-features)
+- [🛠️ Built With](#️-built-with)
+- [🖼️ Screenshots & GIF](#️-screenshots--gif)
+- [🚀 Installation](#-installation)
+- [🎮 Controls](#-controls)
+- [🌐 Online Features](#online)
+- [📁 Project Structure](#-project-structure)
+- [🗺️ Roadmap](#️-roadmap)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+<!--te-->
 ## 🎮 Game Preview
 
 
@@ -27,10 +42,12 @@ The project combines a polished desktop interface with an interactive maze game,
 </p>
 
 ---
+<a id="downloads"></a>
 
-## Downloads Link for fast 😉
-* Windows
-* linux
+## 📥 Downloads
+[⬇️ Windows](https://github.com/imfallah/Maze-Paint_Game/releases)
+
+[⬇️ Linux](https://github.com/imfallah/Maze-Paint_Game/releases)
 
 
 
@@ -126,6 +143,7 @@ MazePaint combines a **PyQt5 desktop application** with a **Pygame game engine**
 ```
 
 ---
+
 
 ## 📁 Project Structure
 
@@ -225,8 +243,9 @@ MAZEPAINT_INSTANCE=player1
 This allows multiple local game instances to maintain separate player information.
 
 ---
+<a id="online"></a>
 
-## 🌐 Online Architecture
+## 🌐 Online Features
 
 MazePaint can communicate with online services through **Supabase**.
 

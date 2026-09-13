@@ -8,7 +8,7 @@
 
 ### **Explore. Solve. Paint. Compete.**
 
-A modern 2D maze adventure game built with **Python, PyQt5 and Pygame**.
+<mark>A modern 2D maze adventure game built with **Python, PyQt5 and Pygame**</mark>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">

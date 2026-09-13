@@ -84,14 +84,14 @@ A modern 2D maze adventure game built with **Python, PyQt5 and Pygame**.
 
 ## 📥 Downloads
 
-Pre-built versions are available through **GitHub Releases**.
+Pre-built versions are available through **[GitHub Releases](https://github.com/imfallah/Maze-Paint_Game-PYQT5/releases/tag/v1.0.0)**.
 
 | Platform        | Package                | Status               |
 | --------------- | ---------------------- | -------------------- |
-| 🪟 Windows      | Standalone application | ✅ Available          |
-| 🐧 Linux        | Standalone application | ✅ Available          |
-| 📦 Linux `.deb` | [Debian package](https://github.com/imfallah/Maze-Paint_Game-PYQT5/releases/download/v1.0.0/MazePaint_1.0.0_amd64.deb)     | ✅ Available   |
-| 📦 AppImage     | [AppImage package](https://github.com/imfallah/Maze-Paint_Game-PYQT5/releases/download/v1.0.0/MazePaint-x86_64.AppImage) | ✅Available           |
+| 🪟 Windows      | [windows install](https://github.com/imfallah/Maze-Paint_Game-PYQT5/releases/download/v1.0.0/Windows.install.rar) | ✅ Available          |
+| 🐧 Linux        | [Standalone application](https://github.com/imfallah/Maze-Paint_Game-PYQT5/releases/tag/v1.0.0) | ✅ Available          |
+| 📦 Linux `.deb` | [ deb Install](https://github.com/imfallah/Maze-Paint_Game-PYQT5/releases/download/v1.0.0/MazePaint_1.0.0_amd64.deb)     | ✅ Available   |
+| 📦 AppImage     | [AppImage inatsll](https://github.com/imfallah/Maze-Paint_Game-PYQT5/releases/download/v1.0.0/MazePaint-x86_64.AppImage) | ✅Available           |
 
 ### ⬇️ Download
 
